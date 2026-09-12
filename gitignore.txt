@@ -1,0 +1,25 @@
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# IDE
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Data files
+data/
+*.csv
+*.log
+
+# Secrets
+.env
+secrets.txt
