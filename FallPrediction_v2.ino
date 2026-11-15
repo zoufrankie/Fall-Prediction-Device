@@ -1,6 +1,6 @@
 // ============================================================
 //  FALL PREDICTION DEVICE v2 — Edge Implementation
-//  Board   : STM32F103C8T6 (Blue Pill)
+//  Board   : STM32F103C8T6 (Blue Pill) 
 //  Sensors : ADS1299 (EEG, 3 channels) + BNO055 (IMU)
 //  IDE     : Arduino IDE + STM32duino core
 //
